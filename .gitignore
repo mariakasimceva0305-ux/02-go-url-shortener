@@ -1,0 +1,4 @@
+data.db
+*.exe
+*.test
+vendor/
